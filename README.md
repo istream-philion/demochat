@@ -1,3 +1,38 @@
+# CodeFresh Sample App
+
+1. fork & update
+2. add to CodeFresh ...
+3. deploy ... (helm)
+
+## Fork
+
+Fork this project.
+
+Update the following:
+* name of your service/project:
+* url of the name of service: ...
+* what else...
+
+## Add the project to CodeFresh
+
+(log-in... link to CF?)
+
+## Deploy!
+
+* Trigger build (cli? eventually) and watch it go.
+
+## In Action
+
+urls for
+* datadog
+* prometheus
+* loggly
+* local logging?
+* codefresh build details
+
+----
+## Original README
+
 ![Let's Chat Greylock](https://codefresh.io/wp-content/uploads/2017/03/lets-chat.png)
 
 
